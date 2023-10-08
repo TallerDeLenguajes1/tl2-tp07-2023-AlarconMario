@@ -31,3 +31,4 @@ C:\Users\mario\Desktop\Facultad\Taller de Lenguaje II\Git\tl2-tp07-2023-AlarconM
 C:\Users\mario\Desktop\Facultad\Taller de Lenguaje II\Git\tl2-tp07-2023-AlarconMario\obj\Debug\net7.0\tl2-tp07-2023-AlarconMario.pdb
 C:\Users\mario\Desktop\Facultad\Taller de Lenguaje II\Git\tl2-tp07-2023-AlarconMario\obj\Debug\net7.0\tl2-tp07-2023-AlarconMario.genruntimeconfig.cache
 C:\Users\mario\Desktop\Facultad\Taller de Lenguaje II\Git\tl2-tp07-2023-AlarconMario\obj\Debug\net7.0\ref\tl2-tp07-2023-AlarconMario.dll
+C:\Users\mario\Desktop\Facultad\Taller de Lenguaje II\Git\tl2-tp07-2023-AlarconMario\bin\Debug\net7.0\Tarea.json
